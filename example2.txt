@@ -1,0 +1,7 @@
+    if($a = A) {
+        $c = a;
+    } elseif($a) {
+        $c = A;
+    } else {
+        $c = A;
+    }
